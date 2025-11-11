@@ -1,46 +1,42 @@
 <!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>🐱 Cat Quest: French Legends</title>
-  assets/style.css
+<html lang="en"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>🐱 Cat Quest: French Legends — v3</title>
+<link rel="stylesheet" href="assets/style.css"/>
 </head>
 <body>
-  <header>
-    <h1>🐱 Cat Quest: French Legends</h1>
-    <p>Level up your French: présent → futur proche → passé récent → passé composé</p>
-  </header>
-
-  <main>
-    <section id="hud">
-      <div>Level: <span id="level">1</span></div>
-      <div>Streak: <span id="streak">0</span></div>
-      <div>Score: <span id="score">0</span>%</div>
-      <div>Badge: <span id="badge">—</span></div>
-    </section>
-
-    <section id="game">
-      <div id="prompt">Press Start to begin.</div>
-      <input id="answer" type="text" placeholder="Type your answer here"/>
-      <div class="buttons">
-        <button id="start">Start</button>
-        <button id="check">Check</button>
-        <button id="next">Next</button>
-      </div>
-      <div id="feedback"></div>
-    </section>
-
-    <section id="rules">
-      <h2>How it works</h2>
-      <ul>
-        <li>Short rounds (10 items). Get <strong>≥90%</strong> to unlock the next level.</li>
-        <li>Correct answers build your <strong>streak</strong> and unlock badges.</li>
-        <li>Levels: 1) Present basics → 2) Core five present → 3) Near future & near past → 4) Passé composé → 5) Unit 1C Boss.</li>
-      </ul>
-    </section>
-  </main>
-
-  <!-- Use defer so it runs after HTML is parsed -->
-  <script defer src="  <script defer src="pt>
-</body>
+<header>
+  <h1>🐱 Cat Quest: French Legends — v3</h1>
+  <p>French 1 → French 2 Unit 1C. Score ≥90% to level up. Streaks on.</p>
+</header>
+<main>
+  <section id="hud">
+    <div>Level: <span id="level">1</span></div>
+    <div>Streak: <span id="streak">0</span></div>
+    <div>Score: <span id="score">0</span>%</div>
+    <div>Badge: <span id="badge">—</span></div>
+  </section>
+  <section id="game">
+    <div id="prompt">Press Start to begin.</div>
+    <input id="answer" type="text" placeholder="Type your answer here"/>
+    <div class="buttons">
+      <button id="start">Start</button>
+      <button id="check">Check</button>
+      <button id="next">Next</button>
+      <button id="reset">Reset Level</button>
+    </div>
+    <div id="feedback"></div>
+  </section>
+  <section id="rules">
+    <h2>What’s covered</h2>
+    <ul>
+      <li>Level 1: Regular -ER/-IR/-RE; AVOIR/ÊTRE (présent); negation; French‑1 vocab</li>
+      <li>Level 2: ALLER/FAIRE/VENIR (présent); activities/media vocab</li>
+      <li>Level 3: Futur proche & Passé récent; Unit 1C vocab</li>
+      <li>Level 4: Passé composé (avoir + être, agreement, irregulars)</li>
+      <li>Level 5: Unit 1C Boss (integrated)</li>
+    </ul>
+  </section>
+</main>
+<script src="assets/app.js?v=7"></script>
+</body></html>

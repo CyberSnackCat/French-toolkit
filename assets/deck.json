@@ -1,1 +1,3498 @@
-[]
+[
+  {
+    "id": "bf873c7d5a",
+    "q": "Conjugue AVOIR (je) — présent",
+    "a": "j'ai",
+    "tag": "verb;avoir;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "be7baa6b59",
+    "q": "Conjugue ÊTRE (je) — présent",
+    "a": "je suis",
+    "tag": "verb;etre;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "f3e20e80c3",
+    "q": "Conjugue PARLER (je) — présent",
+    "a": "je parle",
+    "tag": "verb;parler;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "f01b67e418",
+    "q": "Conjugue FINIR (je) — présent",
+    "a": "je finis",
+    "tag": "verb;finir;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "81e53e4104",
+    "q": "Conjugue VENDRE (je) — présent",
+    "a": "je vends",
+    "tag": "verb;vendre;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "5926eafe3d",
+    "q": "Conjugue AVOIR (tu) — présent",
+    "a": "tu as",
+    "tag": "verb;avoir;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "da9ade9812",
+    "q": "Conjugue ÊTRE (tu) — présent",
+    "a": "tu es",
+    "tag": "verb;etre;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "9a44c2a6de",
+    "q": "Conjugue PARLER (tu) — présent",
+    "a": "tu parles",
+    "tag": "verb;parler;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "d3572095d4",
+    "q": "Conjugue FINIR (tu) — présent",
+    "a": "tu finis",
+    "tag": "verb;finir;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "2f23136fba",
+    "q": "Conjugue VENDRE (tu) — présent",
+    "a": "tu vends",
+    "tag": "verb;vendre;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "9830988d23",
+    "q": "Conjugue AVOIR (il/elle/on) — présent",
+    "a": "il/elle/on a",
+    "tag": "verb;avoir;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "5a353b0098",
+    "q": "Conjugue ÊTRE (il/elle/on) — présent",
+    "a": "il/elle/on est",
+    "tag": "verb;etre;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "c6934be95e",
+    "q": "Conjugue PARLER (il/elle/on) — présent",
+    "a": "il/elle/on parle",
+    "tag": "verb;parler;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "fd5fa01bae",
+    "q": "Conjugue FINIR (il/elle/on) — présent",
+    "a": "il/elle/on finit",
+    "tag": "verb;finir;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "4fcc6436df",
+    "q": "Conjugue VENDRE (il/elle/on) — présent",
+    "a": "il/elle/on vend",
+    "tag": "verb;vendre;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "6c7409b4f1",
+    "q": "Conjugue AVOIR (nous) — présent",
+    "a": "nous avons",
+    "tag": "verb;avoir;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "43c82b29b4",
+    "q": "Conjugue ÊTRE (nous) — présent",
+    "a": "nous sommes",
+    "tag": "verb;etre;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "7377b04c3e",
+    "q": "Conjugue PARLER (nous) — présent",
+    "a": "nous parlons",
+    "tag": "verb;parler;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "6d03284365",
+    "q": "Conjugue FINIR (nous) — présent",
+    "a": "nous finissons",
+    "tag": "verb;finir;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "cb47041d51",
+    "q": "Conjugue VENDRE (nous) — présent",
+    "a": "nous vendons",
+    "tag": "verb;vendre;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "d3c1021fb9",
+    "q": "Conjugue AVOIR (vous) — présent",
+    "a": "vous avez",
+    "tag": "verb;avoir;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "2b01591be6",
+    "q": "Conjugue ÊTRE (vous) — présent",
+    "a": "vous êtes",
+    "tag": "verb;etre;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "642c65ad25",
+    "q": "Conjugue PARLER (vous) — présent",
+    "a": "vous parlez",
+    "tag": "verb;parler;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "a42b9e0889",
+    "q": "Conjugue FINIR (vous) — présent",
+    "a": "vous finissez",
+    "tag": "verb;finir;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "7d28fd859d",
+    "q": "Conjugue VENDRE (vous) — présent",
+    "a": "vous vendez",
+    "tag": "verb;vendre;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "1fc187a0ee",
+    "q": "Conjugue AVOIR (ils/elles) — présent",
+    "a": "ils/elles ont",
+    "tag": "verb;avoir;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "2dd82fc5dd",
+    "q": "Conjugue ÊTRE (ils/elles) — présent",
+    "a": "ils/elles sont",
+    "tag": "verb;etre;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "9aa2d71b90",
+    "q": "Conjugue PARLER (ils/elles) — présent",
+    "a": "ils/elles parlent",
+    "tag": "verb;parler;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "8a4899f145",
+    "q": "Conjugue FINIR (ils/elles) — présent",
+    "a": "ils/elles finissent",
+    "tag": "verb;finir;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "1575098f1e",
+    "q": "Conjugue VENDRE (ils/elles) — présent",
+    "a": "ils/elles vendent",
+    "tag": "verb;vendre;present",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "82da7bc0c3",
+    "q": "Négation: je parle →",
+    "a": "je ne parle pas",
+    "tag": "grammar;negation",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "67f0653d88",
+    "q": "Négation: il travaille →",
+    "a": "il ne travaille pas",
+    "tag": "grammar;negation",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "c83a065038",
+    "q": "Négation: nous chantons →",
+    "a": "nous ne chantons pas",
+    "tag": "grammar;negation",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "cff856f22d",
+    "q": "Négation: elle est là →",
+    "a": "elle n'est pas là",
+    "tag": "grammar;negation",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "0f1d964679",
+    "q": "Négation: j'ai faim →",
+    "a": "je n'ai pas faim",
+    "tag": "grammar;negation",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "299fbd6b0c",
+    "q": "Négation: toujours (always) →",
+    "a": "ne...jamais / ne...plus",
+    "tag": "grammar;negation",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "04317b8cda",
+    "q": "Négation: souvent (often) →",
+    "a": "ne...jamais",
+    "tag": "grammar;negation",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "0c0369fd65",
+    "q": "Négation: quelque chose (something) →",
+    "a": "ne...rien",
+    "tag": "grammar;negation",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "79c4c00f9e",
+    "q": "Négation: quelqu'un (someone) →",
+    "a": "ne...personne",
+    "tag": "grammar;negation",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "ce29093f96",
+    "q": "January → (fr)",
+    "a": "janvier",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "7a410d0428",
+    "q": "janvier → (en)",
+    "a": "January",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "dab030162c",
+    "q": "February → (fr)",
+    "a": "février",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "01cb4057e2",
+    "q": "février → (en)",
+    "a": "February",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "cbc8c86ba6",
+    "q": "March → (fr)",
+    "a": "mars",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "2b146d6295",
+    "q": "mars → (en)",
+    "a": "March",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "d2bd98beac",
+    "q": "April → (fr)",
+    "a": "avril",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "bf4de9a003",
+    "q": "avril → (en)",
+    "a": "April",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "68708ec952",
+    "q": "May → (fr)",
+    "a": "mai",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "a471f8d97a",
+    "q": "mai → (en)",
+    "a": "May",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "d93a6d5863",
+    "q": "June → (fr)",
+    "a": "juin",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "e1561e19ee",
+    "q": "juin → (en)",
+    "a": "June",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "867c8ac99a",
+    "q": "July → (fr)",
+    "a": "juillet",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "2d2f5dba82",
+    "q": "juillet → (en)",
+    "a": "July",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "7ad06cf760",
+    "q": "August → (fr)",
+    "a": "août",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "e3fc84ea41",
+    "q": "août → (en)",
+    "a": "August",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "0900baa85f",
+    "q": "September → (fr)",
+    "a": "septembre",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "522a887685",
+    "q": "septembre → (en)",
+    "a": "September",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "a8fb001ddf",
+    "q": "October → (fr)",
+    "a": "octobre",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "0100fe84d1",
+    "q": "octobre → (en)",
+    "a": "October",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "4ab7a48491",
+    "q": "November → (fr)",
+    "a": "novembre",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "442128a57d",
+    "q": "novembre → (en)",
+    "a": "November",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "84aa5c8230",
+    "q": "December → (fr)",
+    "a": "décembre",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "4d116502f4",
+    "q": "décembre → (en)",
+    "a": "December",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "de9b0d495c",
+    "q": "Monday → (fr)",
+    "a": "lundi",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "e7ce0e5f00",
+    "q": "lundi → (en)",
+    "a": "Monday",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "bbaa02080f",
+    "q": "Tuesday → (fr)",
+    "a": "mardi",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "63b2cafea8",
+    "q": "mardi → (en)",
+    "a": "Tuesday",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "3d787500ed",
+    "q": "Wednesday → (fr)",
+    "a": "mercredi",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "c6bc565112",
+    "q": "mercredi → (en)",
+    "a": "Wednesday",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "5c4dc8e5af",
+    "q": "Thursday → (fr)",
+    "a": "jeudi",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "fe144a92e3",
+    "q": "jeudi → (en)",
+    "a": "Thursday",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "395ebf0b7b",
+    "q": "Friday → (fr)",
+    "a": "vendredi",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "f2320b4649",
+    "q": "vendredi → (en)",
+    "a": "Friday",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "bc452f6956",
+    "q": "Saturday → (fr)",
+    "a": "samedi",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "4844c37b77",
+    "q": "samedi → (en)",
+    "a": "Saturday",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "92effe67e4",
+    "q": "Sunday → (fr)",
+    "a": "dimanche",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "daf7a974fb",
+    "q": "dimanche → (en)",
+    "a": "Sunday",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "d76407de34",
+    "q": "spring → (fr)",
+    "a": "le printemps",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "c8d18b141b",
+    "q": "le printemps → (en)",
+    "a": "spring",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "f977e1d92b",
+    "q": "summer → (fr)",
+    "a": "l'été",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "702a273589",
+    "q": "l'été → (en)",
+    "a": "summer",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "86a6ee69b5",
+    "q": "autumn → (fr)",
+    "a": "l'automne",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "c01f7e525a",
+    "q": "l'automne → (en)",
+    "a": "autumn",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "0a8b99d51e",
+    "q": "winter → (fr)",
+    "a": "l'hiver",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "a8f813049f",
+    "q": "l'hiver → (en)",
+    "a": "winter",
+    "tag": "vocab;from-pdf",
+    "level": 1,
+    "weight": 1
+  },
+  {
+    "id": "05b4cfe8f2",
+    "q": "Conjugue ALLER (je) — présent",
+    "a": "je vais",
+    "tag": "verb;aller;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "bf74114cba",
+    "q": "Conjugue FAIRE (je) — présent",
+    "a": "je fais",
+    "tag": "verb;faire;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "23be51b5d6",
+    "q": "Conjugue VENIR (je) — présent",
+    "a": "je viens",
+    "tag": "verb;venir;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "0b7cd5ae72",
+    "q": "Conjugue ALLER (tu) — présent",
+    "a": "tu vas",
+    "tag": "verb;aller;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "ed4c5295b6",
+    "q": "Conjugue FAIRE (tu) — présent",
+    "a": "tu fais",
+    "tag": "verb;faire;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "ea72febfed",
+    "q": "Conjugue VENIR (tu) — présent",
+    "a": "tu viens",
+    "tag": "verb;venir;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "c70caeef0d",
+    "q": "Conjugue ALLER (il/elle/on) — présent",
+    "a": "il/elle/on va",
+    "tag": "verb;aller;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "c77e93c4aa",
+    "q": "Conjugue FAIRE (il/elle/on) — présent",
+    "a": "il/elle/on fait",
+    "tag": "verb;faire;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "2a902f6693",
+    "q": "Conjugue VENIR (il/elle/on) — présent",
+    "a": "il/elle/on vient",
+    "tag": "verb;venir;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "bad638d77a",
+    "q": "Conjugue ALLER (nous) — présent",
+    "a": "nous allons",
+    "tag": "verb;aller;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "8b9ac0ffdd",
+    "q": "Conjugue FAIRE (nous) — présent",
+    "a": "nous faisons",
+    "tag": "verb;faire;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "f16b6b4684",
+    "q": "Conjugue VENIR (nous) — présent",
+    "a": "nous venons",
+    "tag": "verb;venir;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "6a481fb615",
+    "q": "Conjugue ALLER (vous) — présent",
+    "a": "vous allez",
+    "tag": "verb;aller;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "e5f66d0074",
+    "q": "Conjugue FAIRE (vous) — présent",
+    "a": "vous faites",
+    "tag": "verb;faire;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "0aa8e70809",
+    "q": "Conjugue VENIR (vous) — présent",
+    "a": "vous venez",
+    "tag": "verb;venir;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "dbbfdacb2e",
+    "q": "Conjugue ALLER (ils/elles) — présent",
+    "a": "ils/elles vont",
+    "tag": "verb;aller;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "342471abc0",
+    "q": "Conjugue FAIRE (ils/elles) — présent",
+    "a": "ils/elles font",
+    "tag": "verb;faire;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "4221beb833",
+    "q": "Conjugue VENIR (ils/elles) — présent",
+    "a": "ils/elles viennent",
+    "tag": "verb;venir;present",
+    "level": 2,
+    "weight": 1
+  },
+  {
+    "id": "fc2a27e8af",
+    "q": "Futur proche: (je) + manger",
+    "a": "je vais manger",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "dfc4cd907d",
+    "q": "Passé récent: (je) + manger",
+    "a": "je viens de manger",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "36cedb42f2",
+    "q": "Futur proche: (tu) + manger",
+    "a": "tu vas manger",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "aaff2f239c",
+    "q": "Passé récent: (tu) + manger",
+    "a": "tu viens de manger",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "bbce9a3cea",
+    "q": "Futur proche: (il/elle/on) + manger",
+    "a": "il/elle/on va manger",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "ea11fcc537",
+    "q": "Passé récent: (il/elle/on) + manger",
+    "a": "il/elle/on vient de manger",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "bd27b8af91",
+    "q": "Futur proche: (nous) + manger",
+    "a": "nous allons manger",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "ded0cda3bc",
+    "q": "Passé récent: (nous) + manger",
+    "a": "nous venons de manger",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "590e8da3b5",
+    "q": "Futur proche: (vous) + manger",
+    "a": "vous allez manger",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "b79d9b1ca5",
+    "q": "Passé récent: (vous) + manger",
+    "a": "vous venez de manger",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "7b8943e41b",
+    "q": "Futur proche: (ils/elles) + manger",
+    "a": "ils/elles vont manger",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "69b304dcbe",
+    "q": "Passé récent: (ils/elles) + manger",
+    "a": "ils/elles viennent de manger",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "f2bc8d57f6",
+    "q": "Futur proche: (je) + regarder",
+    "a": "je vais regarder",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "5d2c056629",
+    "q": "Passé récent: (je) + regarder",
+    "a": "je viens de regarder",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "5be00e8890",
+    "q": "Futur proche: (tu) + regarder",
+    "a": "tu vas regarder",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "b9699eb70d",
+    "q": "Passé récent: (tu) + regarder",
+    "a": "tu viens de regarder",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "00cdf9cd2f",
+    "q": "Futur proche: (il/elle/on) + regarder",
+    "a": "il/elle/on va regarder",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "5834cd57a6",
+    "q": "Passé récent: (il/elle/on) + regarder",
+    "a": "il/elle/on vient de regarder",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "bd15860d1a",
+    "q": "Futur proche: (nous) + regarder",
+    "a": "nous allons regarder",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "5a1847f771",
+    "q": "Passé récent: (nous) + regarder",
+    "a": "nous venons de regarder",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "1be1bd41fb",
+    "q": "Futur proche: (vous) + regarder",
+    "a": "vous allez regarder",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "35f8350fba",
+    "q": "Passé récent: (vous) + regarder",
+    "a": "vous venez de regarder",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "97d062a1a7",
+    "q": "Futur proche: (ils/elles) + regarder",
+    "a": "ils/elles vont regarder",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "dcf6fdb0af",
+    "q": "Passé récent: (ils/elles) + regarder",
+    "a": "ils/elles viennent de regarder",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "9aaa5c10e5",
+    "q": "Futur proche: (je) + finir",
+    "a": "je vais finir",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "e6b92acfca",
+    "q": "Passé récent: (je) + finir",
+    "a": "je viens de finir",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "367b3f5e20",
+    "q": "Futur proche: (tu) + finir",
+    "a": "tu vas finir",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "4a9b5f1457",
+    "q": "Passé récent: (tu) + finir",
+    "a": "tu viens de finir",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "d09ac9f09a",
+    "q": "Futur proche: (il/elle/on) + finir",
+    "a": "il/elle/on va finir",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "86194ec19e",
+    "q": "Passé récent: (il/elle/on) + finir",
+    "a": "il/elle/on vient de finir",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "e1bf358d0f",
+    "q": "Futur proche: (nous) + finir",
+    "a": "nous allons finir",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "272d2fdfd3",
+    "q": "Passé récent: (nous) + finir",
+    "a": "nous venons de finir",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "86f3fd9193",
+    "q": "Futur proche: (vous) + finir",
+    "a": "vous allez finir",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "16f9686ccc",
+    "q": "Passé récent: (vous) + finir",
+    "a": "vous venez de finir",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "88abfe419f",
+    "q": "Futur proche: (ils/elles) + finir",
+    "a": "ils/elles vont finir",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "a5a926c5ad",
+    "q": "Passé récent: (ils/elles) + finir",
+    "a": "ils/elles viennent de finir",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "d3a2a60717",
+    "q": "Futur proche: (je) + parler",
+    "a": "je vais parler",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "0e49cc2b3a",
+    "q": "Passé récent: (je) + parler",
+    "a": "je viens de parler",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "e44c9f9bb1",
+    "q": "Futur proche: (tu) + parler",
+    "a": "tu vas parler",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "fd8a7625dc",
+    "q": "Passé récent: (tu) + parler",
+    "a": "tu viens de parler",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "f1927765ee",
+    "q": "Futur proche: (il/elle/on) + parler",
+    "a": "il/elle/on va parler",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "bb59e18281",
+    "q": "Passé récent: (il/elle/on) + parler",
+    "a": "il/elle/on vient de parler",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "e039bd55ca",
+    "q": "Futur proche: (nous) + parler",
+    "a": "nous allons parler",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "4a0ab0b8d8",
+    "q": "Passé récent: (nous) + parler",
+    "a": "nous venons de parler",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "1561ca6693",
+    "q": "Futur proche: (vous) + parler",
+    "a": "vous allez parler",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "11493316f9",
+    "q": "Passé récent: (vous) + parler",
+    "a": "vous venez de parler",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "c880859c0d",
+    "q": "Futur proche: (ils/elles) + parler",
+    "a": "ils/elles vont parler",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "40223620ac",
+    "q": "Passé récent: (ils/elles) + parler",
+    "a": "ils/elles viennent de parler",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "a1b35b6404",
+    "q": "Futur proche: (je) + aller",
+    "a": "je vais aller",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "9fd4adab17",
+    "q": "Passé récent: (je) + aller",
+    "a": "je viens de aller",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "5c4308ceba",
+    "q": "Futur proche: (tu) + aller",
+    "a": "tu vas aller",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "12ad096331",
+    "q": "Passé récent: (tu) + aller",
+    "a": "tu viens de aller",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "52a3e40198",
+    "q": "Futur proche: (il/elle/on) + aller",
+    "a": "il/elle/on va aller",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "09d6cffc90",
+    "q": "Passé récent: (il/elle/on) + aller",
+    "a": "il/elle/on vient de aller",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "87ac88767f",
+    "q": "Futur proche: (nous) + aller",
+    "a": "nous allons aller",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "b8be026fac",
+    "q": "Passé récent: (nous) + aller",
+    "a": "nous venons de aller",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "e85b9b6827",
+    "q": "Futur proche: (vous) + aller",
+    "a": "vous allez aller",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "0666786f2a",
+    "q": "Passé récent: (vous) + aller",
+    "a": "vous venez de aller",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "6c820f72ca",
+    "q": "Futur proche: (ils/elles) + aller",
+    "a": "ils/elles vont aller",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "6fbc560da3",
+    "q": "Passé récent: (ils/elles) + aller",
+    "a": "ils/elles viennent de aller",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "a40047b29b",
+    "q": "Futur proche: (je) + faire",
+    "a": "je vais faire",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "c6f4bdbfd1",
+    "q": "Passé récent: (je) + faire",
+    "a": "je viens de faire",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "e4766d5189",
+    "q": "Futur proche: (tu) + faire",
+    "a": "tu vas faire",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "8c0a54b78b",
+    "q": "Passé récent: (tu) + faire",
+    "a": "tu viens de faire",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "09da39f185",
+    "q": "Futur proche: (il/elle/on) + faire",
+    "a": "il/elle/on va faire",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "d7728ba79c",
+    "q": "Passé récent: (il/elle/on) + faire",
+    "a": "il/elle/on vient de faire",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "e16998be0d",
+    "q": "Futur proche: (nous) + faire",
+    "a": "nous allons faire",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "3c951ca9b9",
+    "q": "Passé récent: (nous) + faire",
+    "a": "nous venons de faire",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "30ce7ebffd",
+    "q": "Futur proche: (vous) + faire",
+    "a": "vous allez faire",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "f6ad61a427",
+    "q": "Passé récent: (vous) + faire",
+    "a": "vous venez de faire",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "5c4c71a424",
+    "q": "Futur proche: (ils/elles) + faire",
+    "a": "ils/elles vont faire",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "41335faf30",
+    "q": "Passé récent: (ils/elles) + faire",
+    "a": "ils/elles viennent de faire",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "17008b3e47",
+    "q": "Futur proche: (je) + venir",
+    "a": "je vais venir",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "1ea29f0004",
+    "q": "Passé récent: (je) + venir",
+    "a": "je viens de venir",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "f6d2aebe6a",
+    "q": "Futur proche: (tu) + venir",
+    "a": "tu vas venir",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "db5ea16f29",
+    "q": "Passé récent: (tu) + venir",
+    "a": "tu viens de venir",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "04dcc8c87c",
+    "q": "Futur proche: (il/elle/on) + venir",
+    "a": "il/elle/on va venir",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "5de1b4c78b",
+    "q": "Passé récent: (il/elle/on) + venir",
+    "a": "il/elle/on vient de venir",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "3a55ef2749",
+    "q": "Futur proche: (nous) + venir",
+    "a": "nous allons venir",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "faec2bdecb",
+    "q": "Passé récent: (nous) + venir",
+    "a": "nous venons de venir",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "4cfe0652b2",
+    "q": "Futur proche: (vous) + venir",
+    "a": "vous allez venir",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "c4e6722fbe",
+    "q": "Passé récent: (vous) + venir",
+    "a": "vous venez de venir",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "e2824159eb",
+    "q": "Futur proche: (ils/elles) + venir",
+    "a": "ils/elles vont venir",
+    "tag": "tense;futur-proche",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "bac63c6669",
+    "q": "Passé récent: (ils/elles) + venir",
+    "a": "ils/elles viennent de venir",
+    "tag": "tense;passe-recent",
+    "level": 3,
+    "weight": 1
+  },
+  {
+    "id": "8e9ffa5ad9",
+    "q": "Passé composé (AVOIR): (je) + parler",
+    "a": "j'ai parlé",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "ed353c87a5",
+    "q": "Passé composé (AVOIR): (tu) + parler",
+    "a": "tu as parlé",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "b2316c9c29",
+    "q": "Passé composé (AVOIR): (il/elle/on) + parler",
+    "a": "il/elle/on a parlé",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "1b3ce5e21f",
+    "q": "Passé composé (AVOIR): (nous) + parler",
+    "a": "nous avons parlé",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "72dc0661df",
+    "q": "Passé composé (AVOIR): (vous) + parler",
+    "a": "vous avez parlé",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "8bd7763744",
+    "q": "Passé composé (AVOIR): (ils/elles) + parler",
+    "a": "ils/elles ont parlé",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "da200ce7d4",
+    "q": "Passé composé (AVOIR): (je) + finir",
+    "a": "j'ai fini",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "65b93d8dce",
+    "q": "Passé composé (AVOIR): (tu) + finir",
+    "a": "tu as fini",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "3bc3a8fb4a",
+    "q": "Passé composé (AVOIR): (il/elle/on) + finir",
+    "a": "il/elle/on a fini",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "d21637b137",
+    "q": "Passé composé (AVOIR): (nous) + finir",
+    "a": "nous avons fini",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "cba7661cd4",
+    "q": "Passé composé (AVOIR): (vous) + finir",
+    "a": "vous avez fini",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "8e5f10a05d",
+    "q": "Passé composé (AVOIR): (ils/elles) + finir",
+    "a": "ils/elles ont fini",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "f7820f3079",
+    "q": "Passé composé (AVOIR): (je) + vendre",
+    "a": "j'ai vendu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "b59fcb95d2",
+    "q": "Passé composé (AVOIR): (tu) + vendre",
+    "a": "tu as vendu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "4cbd1ae7a0",
+    "q": "Passé composé (AVOIR): (il/elle/on) + vendre",
+    "a": "il/elle/on a vendu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "fc88205c85",
+    "q": "Passé composé (AVOIR): (nous) + vendre",
+    "a": "nous avons vendu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "6fd86313ea",
+    "q": "Passé composé (AVOIR): (vous) + vendre",
+    "a": "vous avez vendu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "71807c5607",
+    "q": "Passé composé (AVOIR): (ils/elles) + vendre",
+    "a": "ils/elles ont vendu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "e5511b19c3",
+    "q": "Passé composé (AVOIR): (je) + faire",
+    "a": "j'ai fait",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "0057216b38",
+    "q": "Passé composé (AVOIR): (tu) + faire",
+    "a": "tu as fait",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "75e716eca9",
+    "q": "Passé composé (AVOIR): (il/elle/on) + faire",
+    "a": "il/elle/on a fait",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "8f1816c003",
+    "q": "Passé composé (AVOIR): (nous) + faire",
+    "a": "nous avons fait",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "4299efab17",
+    "q": "Passé composé (AVOIR): (vous) + faire",
+    "a": "vous avez fait",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "056c2a953b",
+    "q": "Passé composé (AVOIR): (ils/elles) + faire",
+    "a": "ils/elles ont fait",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "007e7bc900",
+    "q": "Passé composé (AVOIR): (je) + voir",
+    "a": "j'ai vu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "77c342e5f4",
+    "q": "Passé composé (AVOIR): (tu) + voir",
+    "a": "tu as vu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "842d049e2a",
+    "q": "Passé composé (AVOIR): (il/elle/on) + voir",
+    "a": "il/elle/on a vu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "46f43529f8",
+    "q": "Passé composé (AVOIR): (nous) + voir",
+    "a": "nous avons vu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "64a4d6b4b3",
+    "q": "Passé composé (AVOIR): (vous) + voir",
+    "a": "vous avez vu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "4240c4dff5",
+    "q": "Passé composé (AVOIR): (ils/elles) + voir",
+    "a": "ils/elles ont vu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "e14aefe3ba",
+    "q": "Passé composé (AVOIR): (je) + prendre",
+    "a": "j'ai pris",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "bc47cdabfc",
+    "q": "Passé composé (AVOIR): (tu) + prendre",
+    "a": "tu as pris",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "3785592b2d",
+    "q": "Passé composé (AVOIR): (il/elle/on) + prendre",
+    "a": "il/elle/on a pris",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "93ae567e07",
+    "q": "Passé composé (AVOIR): (nous) + prendre",
+    "a": "nous avons pris",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "beac6a40dc",
+    "q": "Passé composé (AVOIR): (vous) + prendre",
+    "a": "vous avez pris",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "294ce5f8b6",
+    "q": "Passé composé (AVOIR): (ils/elles) + prendre",
+    "a": "ils/elles ont pris",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "405290ae41",
+    "q": "Passé composé (AVOIR): (je) + mettre",
+    "a": "j'ai mis",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "5b0e0ebad3",
+    "q": "Passé composé (AVOIR): (tu) + mettre",
+    "a": "tu as mis",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "6789df8242",
+    "q": "Passé composé (AVOIR): (il/elle/on) + mettre",
+    "a": "il/elle/on a mis",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "b1710e1d6a",
+    "q": "Passé composé (AVOIR): (nous) + mettre",
+    "a": "nous avons mis",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "7412db88ee",
+    "q": "Passé composé (AVOIR): (vous) + mettre",
+    "a": "vous avez mis",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "1e32d05af9",
+    "q": "Passé composé (AVOIR): (ils/elles) + mettre",
+    "a": "ils/elles ont mis",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "ca95ea8475",
+    "q": "Passé composé (AVOIR): (je) + avoir",
+    "a": "j'ai eu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "652aa534bf",
+    "q": "Passé composé (AVOIR): (tu) + avoir",
+    "a": "tu as eu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "ceac622d69",
+    "q": "Passé composé (AVOIR): (il/elle/on) + avoir",
+    "a": "il/elle/on a eu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "33fdd91315",
+    "q": "Passé composé (AVOIR): (nous) + avoir",
+    "a": "nous avons eu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "8d93d41027",
+    "q": "Passé composé (AVOIR): (vous) + avoir",
+    "a": "vous avez eu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "27d387ec77",
+    "q": "Passé composé (AVOIR): (ils/elles) + avoir",
+    "a": "ils/elles ont eu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "d331a76fab",
+    "q": "Passé composé (AVOIR): (je) + être",
+    "a": "j'ai été",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "3010eed68d",
+    "q": "Passé composé (AVOIR): (tu) + être",
+    "a": "tu as été",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "e0b4a996b6",
+    "q": "Passé composé (AVOIR): (il/elle/on) + être",
+    "a": "il/elle/on a été",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "9930780938",
+    "q": "Passé composé (AVOIR): (nous) + être",
+    "a": "nous avons été",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "4f96a20247",
+    "q": "Passé composé (AVOIR): (vous) + être",
+    "a": "vous avez été",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "0e75ae726c",
+    "q": "Passé composé (AVOIR): (ils/elles) + être",
+    "a": "ils/elles ont été",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "1d337ebdc0",
+    "q": "Passé composé (AVOIR): (je) + dire",
+    "a": "j'ai dit",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "517ebb6ad4",
+    "q": "Passé composé (AVOIR): (tu) + dire",
+    "a": "tu as dit",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "5c8a2947d8",
+    "q": "Passé composé (AVOIR): (il/elle/on) + dire",
+    "a": "il/elle/on a dit",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "397f1092dd",
+    "q": "Passé composé (AVOIR): (nous) + dire",
+    "a": "nous avons dit",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "a3cedd0277",
+    "q": "Passé composé (AVOIR): (vous) + dire",
+    "a": "vous avez dit",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "3b240ef225",
+    "q": "Passé composé (AVOIR): (ils/elles) + dire",
+    "a": "ils/elles ont dit",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "236c1f0a26",
+    "q": "Passé composé (AVOIR): (je) + vouloir",
+    "a": "j'ai voulu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "de105f2e22",
+    "q": "Passé composé (AVOIR): (tu) + vouloir",
+    "a": "tu as voulu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "52a76bff5a",
+    "q": "Passé composé (AVOIR): (il/elle/on) + vouloir",
+    "a": "il/elle/on a voulu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "6d274bd25c",
+    "q": "Passé composé (AVOIR): (nous) + vouloir",
+    "a": "nous avons voulu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "7a79937a34",
+    "q": "Passé composé (AVOIR): (vous) + vouloir",
+    "a": "vous avez voulu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "da4d80ea0e",
+    "q": "Passé composé (AVOIR): (ils/elles) + vouloir",
+    "a": "ils/elles ont voulu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "a5c8269d63",
+    "q": "Passé composé (AVOIR): (je) + pouvoir",
+    "a": "j'ai pu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "49c305d765",
+    "q": "Passé composé (AVOIR): (tu) + pouvoir",
+    "a": "tu as pu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "a05c76ea99",
+    "q": "Passé composé (AVOIR): (il/elle/on) + pouvoir",
+    "a": "il/elle/on a pu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "010e0271b1",
+    "q": "Passé composé (AVOIR): (nous) + pouvoir",
+    "a": "nous avons pu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "be0053688e",
+    "q": "Passé composé (AVOIR): (vous) + pouvoir",
+    "a": "vous avez pu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "9b5a4508b8",
+    "q": "Passé composé (AVOIR): (ils/elles) + pouvoir",
+    "a": "ils/elles ont pu",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "e2d6b09f64",
+    "q": "Passé composé (AVOIR): (je) + devoir",
+    "a": "j'ai dû",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "6272d7c14a",
+    "q": "Passé composé (AVOIR): (tu) + devoir",
+    "a": "tu as dû",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "861156aee8",
+    "q": "Passé composé (AVOIR): (il/elle/on) + devoir",
+    "a": "il/elle/on a dû",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "19fbcbbd46",
+    "q": "Passé composé (AVOIR): (nous) + devoir",
+    "a": "nous avons dû",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "e6b69e8a5e",
+    "q": "Passé composé (AVOIR): (vous) + devoir",
+    "a": "vous avez dû",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "c89e10768f",
+    "q": "Passé composé (AVOIR): (ils/elles) + devoir",
+    "a": "ils/elles ont dû",
+    "tag": "tense;passe-compose;avoir",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "e2f048d52e",
+    "q": "Passé composé (ÊTRE): (je (f.)) + aller",
+    "a": "je suis allée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "d3162e0cde",
+    "q": "Passé composé (ÊTRE): (je (m.)) + aller",
+    "a": "je suis allé",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "740fb26516",
+    "q": "Passé composé (ÊTRE): (tu (f.)) + aller",
+    "a": "tu es allée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "f216fc45e2",
+    "q": "Passé composé (ÊTRE): (tu (m.)) + aller",
+    "a": "tu es allé",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "c924655884",
+    "q": "Passé composé (ÊTRE): (elle) + aller",
+    "a": "elle est allée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "ac35c037e1",
+    "q": "Passé composé (ÊTRE): (il) + aller",
+    "a": "il est allé",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "e089fc7bd2",
+    "q": "Passé composé (ÊTRE): (nous (f. pl.)) + aller",
+    "a": "nous sommes allées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "8c20b81da7",
+    "q": "Passé composé (ÊTRE): (nous (m. pl.)) + aller",
+    "a": "nous sommes allés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "7435ff364c",
+    "q": "Passé composé (ÊTRE): (vous (f. pl.)) + aller",
+    "a": "vous êtes allées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "814dfa8111",
+    "q": "Passé composé (ÊTRE): (vous (m. pl.)) + aller",
+    "a": "vous êtes allés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "ca9313f051",
+    "q": "Passé composé (ÊTRE): (elles) + aller",
+    "a": "elles sont allées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "2dc50adcca",
+    "q": "Passé composé (ÊTRE): (ils) + aller",
+    "a": "ils sont allés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "d79bc0149f",
+    "q": "Passé composé (ÊTRE): (je (f.)) + venir",
+    "a": "je suis venue",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "12094e5a19",
+    "q": "Passé composé (ÊTRE): (je (m.)) + venir",
+    "a": "je suis venu",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "13860e7bc8",
+    "q": "Passé composé (ÊTRE): (tu (f.)) + venir",
+    "a": "tu es venue",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "03b33412ad",
+    "q": "Passé composé (ÊTRE): (tu (m.)) + venir",
+    "a": "tu es venu",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "d6fe99cda1",
+    "q": "Passé composé (ÊTRE): (elle) + venir",
+    "a": "elle est venue",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "3b6894bcd2",
+    "q": "Passé composé (ÊTRE): (il) + venir",
+    "a": "il est venu",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "0c4cc2bf1f",
+    "q": "Passé composé (ÊTRE): (nous (f. pl.)) + venir",
+    "a": "nous sommes venues",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "191de8da7a",
+    "q": "Passé composé (ÊTRE): (nous (m. pl.)) + venir",
+    "a": "nous sommes venus",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "11154bbd98",
+    "q": "Passé composé (ÊTRE): (vous (f. pl.)) + venir",
+    "a": "vous êtes venues",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "00a72dd18a",
+    "q": "Passé composé (ÊTRE): (vous (m. pl.)) + venir",
+    "a": "vous êtes venus",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "c9a5704223",
+    "q": "Passé composé (ÊTRE): (elles) + venir",
+    "a": "elles sont venues",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "951ebe288d",
+    "q": "Passé composé (ÊTRE): (ils) + venir",
+    "a": "ils sont venus",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "2e15c49816",
+    "q": "Passé composé (ÊTRE): (je (f.)) + arriver",
+    "a": "je suis arrivée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "a57943e405",
+    "q": "Passé composé (ÊTRE): (je (m.)) + arriver",
+    "a": "je suis arrivé",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "c5be63377b",
+    "q": "Passé composé (ÊTRE): (tu (f.)) + arriver",
+    "a": "tu es arrivée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "efb60d028a",
+    "q": "Passé composé (ÊTRE): (tu (m.)) + arriver",
+    "a": "tu es arrivé",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "2cd8fc61a0",
+    "q": "Passé composé (ÊTRE): (elle) + arriver",
+    "a": "elle est arrivée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "a1181d64f2",
+    "q": "Passé composé (ÊTRE): (il) + arriver",
+    "a": "il est arrivé",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "edd1b1c2bb",
+    "q": "Passé composé (ÊTRE): (nous (f. pl.)) + arriver",
+    "a": "nous sommes arrivées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "601310f7cf",
+    "q": "Passé composé (ÊTRE): (nous (m. pl.)) + arriver",
+    "a": "nous sommes arrivés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "0ad5441bec",
+    "q": "Passé composé (ÊTRE): (vous (f. pl.)) + arriver",
+    "a": "vous êtes arrivées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "7a206afd18",
+    "q": "Passé composé (ÊTRE): (vous (m. pl.)) + arriver",
+    "a": "vous êtes arrivés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "ff6c2142f4",
+    "q": "Passé composé (ÊTRE): (elles) + arriver",
+    "a": "elles sont arrivées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "fc0a688e5e",
+    "q": "Passé composé (ÊTRE): (ils) + arriver",
+    "a": "ils sont arrivés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "5d1a94255e",
+    "q": "Passé composé (ÊTRE): (je (f.)) + partir",
+    "a": "je suis partie",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "cc9d7ab114",
+    "q": "Passé composé (ÊTRE): (je (m.)) + partir",
+    "a": "je suis parti",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "dbf9a4545c",
+    "q": "Passé composé (ÊTRE): (tu (f.)) + partir",
+    "a": "tu es partie",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "928ffc403b",
+    "q": "Passé composé (ÊTRE): (tu (m.)) + partir",
+    "a": "tu es parti",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "f19d324451",
+    "q": "Passé composé (ÊTRE): (elle) + partir",
+    "a": "elle est partie",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "9d930d26cf",
+    "q": "Passé composé (ÊTRE): (il) + partir",
+    "a": "il est parti",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "2a46e13ef2",
+    "q": "Passé composé (ÊTRE): (nous (f. pl.)) + partir",
+    "a": "nous sommes parties",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "88c0116570",
+    "q": "Passé composé (ÊTRE): (nous (m. pl.)) + partir",
+    "a": "nous sommes partis",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "52eb2021b7",
+    "q": "Passé composé (ÊTRE): (vous (f. pl.)) + partir",
+    "a": "vous êtes parties",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "6a1a0e6807",
+    "q": "Passé composé (ÊTRE): (vous (m. pl.)) + partir",
+    "a": "vous êtes partis",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "f4f65f84dc",
+    "q": "Passé composé (ÊTRE): (elles) + partir",
+    "a": "elles sont parties",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "2810127c56",
+    "q": "Passé composé (ÊTRE): (ils) + partir",
+    "a": "ils sont partis",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "fc426da476",
+    "q": "Passé composé (ÊTRE): (je (f.)) + entrer",
+    "a": "je suis entrée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "01268e5e47",
+    "q": "Passé composé (ÊTRE): (je (m.)) + entrer",
+    "a": "je suis entré",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "1a6e4d9e77",
+    "q": "Passé composé (ÊTRE): (tu (f.)) + entrer",
+    "a": "tu es entrée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "1e09b21157",
+    "q": "Passé composé (ÊTRE): (tu (m.)) + entrer",
+    "a": "tu es entré",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "07fb36121d",
+    "q": "Passé composé (ÊTRE): (elle) + entrer",
+    "a": "elle est entrée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "7e3212d786",
+    "q": "Passé composé (ÊTRE): (il) + entrer",
+    "a": "il est entré",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "db80ee0471",
+    "q": "Passé composé (ÊTRE): (nous (f. pl.)) + entrer",
+    "a": "nous sommes entrées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "f54663eeec",
+    "q": "Passé composé (ÊTRE): (nous (m. pl.)) + entrer",
+    "a": "nous sommes entrés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "55262b093c",
+    "q": "Passé composé (ÊTRE): (vous (f. pl.)) + entrer",
+    "a": "vous êtes entrées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "bde7045e2d",
+    "q": "Passé composé (ÊTRE): (vous (m. pl.)) + entrer",
+    "a": "vous êtes entrés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "b9fe57d077",
+    "q": "Passé composé (ÊTRE): (elles) + entrer",
+    "a": "elles sont entrées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "ee0d338c53",
+    "q": "Passé composé (ÊTRE): (ils) + entrer",
+    "a": "ils sont entrés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "1f4a0791bd",
+    "q": "Passé composé (ÊTRE): (je (f.)) + sortir",
+    "a": "je suis sortie",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "8bca8a45eb",
+    "q": "Passé composé (ÊTRE): (je (m.)) + sortir",
+    "a": "je suis sorti",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "4a3ff993cc",
+    "q": "Passé composé (ÊTRE): (tu (f.)) + sortir",
+    "a": "tu es sortie",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "42a24b946e",
+    "q": "Passé composé (ÊTRE): (tu (m.)) + sortir",
+    "a": "tu es sorti",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "9f818590b2",
+    "q": "Passé composé (ÊTRE): (elle) + sortir",
+    "a": "elle est sortie",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "0af3e0d893",
+    "q": "Passé composé (ÊTRE): (il) + sortir",
+    "a": "il est sorti",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "4224f1bee0",
+    "q": "Passé composé (ÊTRE): (nous (f. pl.)) + sortir",
+    "a": "nous sommes sorties",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "4a3f8bb255",
+    "q": "Passé composé (ÊTRE): (nous (m. pl.)) + sortir",
+    "a": "nous sommes sortis",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "c8bde27d1b",
+    "q": "Passé composé (ÊTRE): (vous (f. pl.)) + sortir",
+    "a": "vous êtes sorties",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "e01a7786ae",
+    "q": "Passé composé (ÊTRE): (vous (m. pl.)) + sortir",
+    "a": "vous êtes sortis",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "cb9ff34276",
+    "q": "Passé composé (ÊTRE): (elles) + sortir",
+    "a": "elles sont sorties",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "63fa33a9b8",
+    "q": "Passé composé (ÊTRE): (ils) + sortir",
+    "a": "ils sont sortis",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "76b35acedc",
+    "q": "Passé composé (ÊTRE): (je (f.)) + monter",
+    "a": "je suis montée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "9686f17be0",
+    "q": "Passé composé (ÊTRE): (je (m.)) + monter",
+    "a": "je suis monté",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "f5ac25d0d7",
+    "q": "Passé composé (ÊTRE): (tu (f.)) + monter",
+    "a": "tu es montée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "3e40f1d4d4",
+    "q": "Passé composé (ÊTRE): (tu (m.)) + monter",
+    "a": "tu es monté",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "743c0bea57",
+    "q": "Passé composé (ÊTRE): (elle) + monter",
+    "a": "elle est montée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "a1267dea5e",
+    "q": "Passé composé (ÊTRE): (il) + monter",
+    "a": "il est monté",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "05985174fa",
+    "q": "Passé composé (ÊTRE): (nous (f. pl.)) + monter",
+    "a": "nous sommes montées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "a2e43a7493",
+    "q": "Passé composé (ÊTRE): (nous (m. pl.)) + monter",
+    "a": "nous sommes montés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "6eec2e41f8",
+    "q": "Passé composé (ÊTRE): (vous (f. pl.)) + monter",
+    "a": "vous êtes montées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "ca5d179905",
+    "q": "Passé composé (ÊTRE): (vous (m. pl.)) + monter",
+    "a": "vous êtes montés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "a429104dda",
+    "q": "Passé composé (ÊTRE): (elles) + monter",
+    "a": "elles sont montées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "d21a5db9a7",
+    "q": "Passé composé (ÊTRE): (ils) + monter",
+    "a": "ils sont montés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "6a8b2e2ba0",
+    "q": "Passé composé (ÊTRE): (je (f.)) + descendre",
+    "a": "je suis descendue",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "60e67eb03e",
+    "q": "Passé composé (ÊTRE): (je (m.)) + descendre",
+    "a": "je suis descendu",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "85e31f7936",
+    "q": "Passé composé (ÊTRE): (tu (f.)) + descendre",
+    "a": "tu es descendue",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "40729ad243",
+    "q": "Passé composé (ÊTRE): (tu (m.)) + descendre",
+    "a": "tu es descendu",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "7bc1528d92",
+    "q": "Passé composé (ÊTRE): (elle) + descendre",
+    "a": "elle est descendue",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "294888f0dd",
+    "q": "Passé composé (ÊTRE): (il) + descendre",
+    "a": "il est descendu",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "5fb0731ca5",
+    "q": "Passé composé (ÊTRE): (nous (f. pl.)) + descendre",
+    "a": "nous sommes descendues",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "181a43076b",
+    "q": "Passé composé (ÊTRE): (nous (m. pl.)) + descendre",
+    "a": "nous sommes descendus",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "ada7ceff7a",
+    "q": "Passé composé (ÊTRE): (vous (f. pl.)) + descendre",
+    "a": "vous êtes descendues",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "2a614d4bf3",
+    "q": "Passé composé (ÊTRE): (vous (m. pl.)) + descendre",
+    "a": "vous êtes descendus",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "f1708ca374",
+    "q": "Passé composé (ÊTRE): (elles) + descendre",
+    "a": "elles sont descendues",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "ef42c32e48",
+    "q": "Passé composé (ÊTRE): (ils) + descendre",
+    "a": "ils sont descendus",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "3352e68fad",
+    "q": "Passé composé (ÊTRE): (je (f.)) + naître",
+    "a": "je suis née",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "de453f9cf2",
+    "q": "Passé composé (ÊTRE): (je (m.)) + naître",
+    "a": "je suis né",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "6bbc8353df",
+    "q": "Passé composé (ÊTRE): (tu (f.)) + naître",
+    "a": "tu es née",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "01759e152f",
+    "q": "Passé composé (ÊTRE): (tu (m.)) + naître",
+    "a": "tu es né",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "e94d6b2c0f",
+    "q": "Passé composé (ÊTRE): (elle) + naître",
+    "a": "elle est née",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "15eb1e0da7",
+    "q": "Passé composé (ÊTRE): (il) + naître",
+    "a": "il est né",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "d27db3b5cd",
+    "q": "Passé composé (ÊTRE): (nous (f. pl.)) + naître",
+    "a": "nous sommes nées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "1b6552ccca",
+    "q": "Passé composé (ÊTRE): (nous (m. pl.)) + naître",
+    "a": "nous sommes nés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "50c0e1595f",
+    "q": "Passé composé (ÊTRE): (vous (f. pl.)) + naître",
+    "a": "vous êtes nées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "312b3686d3",
+    "q": "Passé composé (ÊTRE): (vous (m. pl.)) + naître",
+    "a": "vous êtes nés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "acbc239807",
+    "q": "Passé composé (ÊTRE): (elles) + naître",
+    "a": "elles sont nées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "dd8142db72",
+    "q": "Passé composé (ÊTRE): (ils) + naître",
+    "a": "ils sont nés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "20c272b3b7",
+    "q": "Passé composé (ÊTRE): (je (f.)) + mourir",
+    "a": "je suis morte",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "2f68270cd5",
+    "q": "Passé composé (ÊTRE): (je (m.)) + mourir",
+    "a": "je suis mort",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "7b926958e1",
+    "q": "Passé composé (ÊTRE): (tu (f.)) + mourir",
+    "a": "tu es morte",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "2fa59f10b9",
+    "q": "Passé composé (ÊTRE): (tu (m.)) + mourir",
+    "a": "tu es mort",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "4c1c4a5864",
+    "q": "Passé composé (ÊTRE): (elle) + mourir",
+    "a": "elle est morte",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "9346d5da0f",
+    "q": "Passé composé (ÊTRE): (il) + mourir",
+    "a": "il est mort",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "1e3b1d1585",
+    "q": "Passé composé (ÊTRE): (nous (f. pl.)) + mourir",
+    "a": "nous sommes mortes",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "e9d691ef27",
+    "q": "Passé composé (ÊTRE): (nous (m. pl.)) + mourir",
+    "a": "nous sommes morts",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "8242d87ef4",
+    "q": "Passé composé (ÊTRE): (vous (f. pl.)) + mourir",
+    "a": "vous êtes mortes",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "a676960a8b",
+    "q": "Passé composé (ÊTRE): (vous (m. pl.)) + mourir",
+    "a": "vous êtes morts",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "3a0c6cd3c1",
+    "q": "Passé composé (ÊTRE): (elles) + mourir",
+    "a": "elles sont mortes",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "e12a73436a",
+    "q": "Passé composé (ÊTRE): (ils) + mourir",
+    "a": "ils sont morts",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "bde97d46ae",
+    "q": "Passé composé (ÊTRE): (je (f.)) + rester",
+    "a": "je suis restée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "3229971385",
+    "q": "Passé composé (ÊTRE): (je (m.)) + rester",
+    "a": "je suis resté",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "48bf31e9b6",
+    "q": "Passé composé (ÊTRE): (tu (f.)) + rester",
+    "a": "tu es restée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "e654840bce",
+    "q": "Passé composé (ÊTRE): (tu (m.)) + rester",
+    "a": "tu es resté",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "6438280888",
+    "q": "Passé composé (ÊTRE): (elle) + rester",
+    "a": "elle est restée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "fe706db5d4",
+    "q": "Passé composé (ÊTRE): (il) + rester",
+    "a": "il est resté",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "0ca61a3bde",
+    "q": "Passé composé (ÊTRE): (nous (f. pl.)) + rester",
+    "a": "nous sommes restées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "589dd5f9ae",
+    "q": "Passé composé (ÊTRE): (nous (m. pl.)) + rester",
+    "a": "nous sommes restés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "5725ef16de",
+    "q": "Passé composé (ÊTRE): (vous (f. pl.)) + rester",
+    "a": "vous êtes restées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "660b635132",
+    "q": "Passé composé (ÊTRE): (vous (m. pl.)) + rester",
+    "a": "vous êtes restés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "5cde0c17e3",
+    "q": "Passé composé (ÊTRE): (elles) + rester",
+    "a": "elles sont restées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "65be5f7fc3",
+    "q": "Passé composé (ÊTRE): (ils) + rester",
+    "a": "ils sont restés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "e83f77dedb",
+    "q": "Passé composé (ÊTRE): (je (f.)) + retourner",
+    "a": "je suis retournée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "f4704e8796",
+    "q": "Passé composé (ÊTRE): (je (m.)) + retourner",
+    "a": "je suis retourné",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "c103afc824",
+    "q": "Passé composé (ÊTRE): (tu (f.)) + retourner",
+    "a": "tu es retournée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "4a8077d8ee",
+    "q": "Passé composé (ÊTRE): (tu (m.)) + retourner",
+    "a": "tu es retourné",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "68863a5990",
+    "q": "Passé composé (ÊTRE): (elle) + retourner",
+    "a": "elle est retournée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "13db837dbe",
+    "q": "Passé composé (ÊTRE): (il) + retourner",
+    "a": "il est retourné",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "ff92ec061d",
+    "q": "Passé composé (ÊTRE): (nous (f. pl.)) + retourner",
+    "a": "nous sommes retournées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "e624f816af",
+    "q": "Passé composé (ÊTRE): (nous (m. pl.)) + retourner",
+    "a": "nous sommes retournés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "8d553880e9",
+    "q": "Passé composé (ÊTRE): (vous (f. pl.)) + retourner",
+    "a": "vous êtes retournées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "459401fa8d",
+    "q": "Passé composé (ÊTRE): (vous (m. pl.)) + retourner",
+    "a": "vous êtes retournés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "fcc8efb547",
+    "q": "Passé composé (ÊTRE): (elles) + retourner",
+    "a": "elles sont retournées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "1913815d90",
+    "q": "Passé composé (ÊTRE): (ils) + retourner",
+    "a": "ils sont retournés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "ca8d9ce9ed",
+    "q": "Passé composé (ÊTRE): (je (f.)) + tomber",
+    "a": "je suis tombée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "44da9d0fef",
+    "q": "Passé composé (ÊTRE): (je (m.)) + tomber",
+    "a": "je suis tombé",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "24d062ac8d",
+    "q": "Passé composé (ÊTRE): (tu (f.)) + tomber",
+    "a": "tu es tombée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "26c5fb8e44",
+    "q": "Passé composé (ÊTRE): (tu (m.)) + tomber",
+    "a": "tu es tombé",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "32b460623f",
+    "q": "Passé composé (ÊTRE): (elle) + tomber",
+    "a": "elle est tombée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "3f5db2df49",
+    "q": "Passé composé (ÊTRE): (il) + tomber",
+    "a": "il est tombé",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "b7e74b0b48",
+    "q": "Passé composé (ÊTRE): (nous (f. pl.)) + tomber",
+    "a": "nous sommes tombées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "06bc44ecc9",
+    "q": "Passé composé (ÊTRE): (nous (m. pl.)) + tomber",
+    "a": "nous sommes tombés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "6c14987f7b",
+    "q": "Passé composé (ÊTRE): (vous (f. pl.)) + tomber",
+    "a": "vous êtes tombées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "969c7d6429",
+    "q": "Passé composé (ÊTRE): (vous (m. pl.)) + tomber",
+    "a": "vous êtes tombés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "dd0dc14379",
+    "q": "Passé composé (ÊTRE): (elles) + tomber",
+    "a": "elles sont tombées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "7577b88c0f",
+    "q": "Passé composé (ÊTRE): (ils) + tomber",
+    "a": "ils sont tombés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "6d0f498c89",
+    "q": "Passé composé (ÊTRE): (je (f.)) + passer",
+    "a": "je suis passée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "29645e7207",
+    "q": "Passé composé (ÊTRE): (je (m.)) + passer",
+    "a": "je suis passé",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "6fc00097e2",
+    "q": "Passé composé (ÊTRE): (tu (f.)) + passer",
+    "a": "tu es passée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "fd7816aa74",
+    "q": "Passé composé (ÊTRE): (tu (m.)) + passer",
+    "a": "tu es passé",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "09bd3776e3",
+    "q": "Passé composé (ÊTRE): (elle) + passer",
+    "a": "elle est passée",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "df7534be3b",
+    "q": "Passé composé (ÊTRE): (il) + passer",
+    "a": "il est passé",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "ec296e2fee",
+    "q": "Passé composé (ÊTRE): (nous (f. pl.)) + passer",
+    "a": "nous sommes passées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "a45cda38dc",
+    "q": "Passé composé (ÊTRE): (nous (m. pl.)) + passer",
+    "a": "nous sommes passés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "b149b15355",
+    "q": "Passé composé (ÊTRE): (vous (f. pl.)) + passer",
+    "a": "vous êtes passées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "2a10dd8954",
+    "q": "Passé composé (ÊTRE): (vous (m. pl.)) + passer",
+    "a": "vous êtes passés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "bac1c1a2ff",
+    "q": "Passé composé (ÊTRE): (elles) + passer",
+    "a": "elles sont passées",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "ed15ab805a",
+    "q": "Passé composé (ÊTRE): (ils) + passer",
+    "a": "ils sont passés",
+    "tag": "tense;passe-compose;etre",
+    "level": 4,
+    "weight": 1
+  },
+  {
+    "id": "a328c6bca4",
+    "q": "Futur proche: (nous) + faire un tour de grande roue",
+    "a": "nous allons faire un tour de grande roue",
+    "tag": "boss;u1c;integrated",
+    "level": 5,
+    "weight": 1
+  },
+  {
+    "id": "f4dec23ae5",
+    "q": "Passé récent: (elles) + arriver au parc d'attractions",
+    "a": "elles viennent d'arriver au parc d'attractions",
+    "tag": "boss;u1c;integrated",
+    "level": 5,
+    "weight": 1
+  },
+  {
+    "id": "50d0ac0ad2",
+    "q": "Présent: (il) + venir à la fête nationale",
+    "a": "il vient à la fête nationale",
+    "tag": "boss;u1c;integrated",
+    "level": 5,
+    "weight": 1
+  },
+  {
+    "id": "6eb37e7d39",
+    "q": "Passé composé (ÊTRE): (elle) + aller à la maison hantée",
+    "a": "elle est allée à la maison hantée",
+    "tag": "boss;u1c;integrated",
+    "level": 5,
+    "weight": 1
+  }
+]
