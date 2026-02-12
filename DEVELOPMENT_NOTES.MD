@@ -1,0 +1,3 @@
+- i built this to help me practice my French vocab and grammar
+- to be honest, this was probably a way to avoid studying and do more of what i really enjoy which was making puzzles and coding
+- it works though as a translation game. i didn't want to keep building it though because if i want to spend more time learning French I use other apps now.
